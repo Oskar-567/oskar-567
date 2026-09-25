@@ -27,7 +27,7 @@ jobs:
           user: Oskar-567
           filename: assets/metrics-stats.svg
           template: classic
-          base: header, activity, community, repositories
+          base: activity
           config_timezone: Europe/Zurich
 
       # Commits assets/metrics-languages.svg to the default branch
